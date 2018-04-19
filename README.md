@@ -2,8 +2,9 @@
 
 **8 / 819** solved
 
+
 | # | Problems | Solutions | Difficulty |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/JSMagician/leetcode/blob/master/solutions/0001%20Two%20Sum/1%20Two%20Sum.js) |  Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/JSMagician/leetcode/tree/master/solutions/0002%20Add%20Two%20Numbers) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](https://github.com/JSMagician/leetcode/tree/master/solutions/0026%20Remove%20Duplicates%20from%20Sorted%20Array) | Easy |
