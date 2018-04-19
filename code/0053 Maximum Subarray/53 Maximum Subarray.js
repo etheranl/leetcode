@@ -12,12 +12,12 @@
 var maxSubArray = function (nums) {
   if (!nums.length) return null
   let local = nums[0]
-  let global = nums[0]
+  let result = nums[0]
   for (let i = 1; i < nums.length; i++) {
     local = Math.max(nums[i], local + nums[i])
-    global = Math.max(local, global)
+    result = Math.max(local, result)
   }
-  return global
+  return result
 }
 
-console.log(maxSubArray([-2, 1, -1, 3, -6, 5]));
+console.log(maxSubArray([-3, 1, 3, -2, 3]));
