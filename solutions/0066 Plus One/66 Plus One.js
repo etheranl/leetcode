@@ -1,5 +1,5 @@
 /**
- * @author JSMagician-haoran
+ * @author unicornking-haoran
  * @email imhaoran.wang@foxmail.com
  * @desc see:https://leetcode.com/problems/plus-one/description/
 */

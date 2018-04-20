@@ -13,3 +13,4 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/JSMagician/leetcode/tree/master/solutions/0088%20Merge%20Sorted%20Array) |  Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](https://github.com/JSMagician/leetcode/tree/master/solutions/0118%20Pascal's%20Triangle) |  Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Solution](https://github.com/JSMagician/leetcode/tree/master/solutions/0121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) |  Easy |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Solution](https://github.com/JSMagician/leetcode/tree/master/solutions/0121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) |  Easy |

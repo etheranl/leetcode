@@ -1,5 +1,5 @@
 /**
- * @author JSMagician-haoran
+ * @author unicornking-haoran
  * @email imhaoran.wang@foxmail.com
  * @desc https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 */
