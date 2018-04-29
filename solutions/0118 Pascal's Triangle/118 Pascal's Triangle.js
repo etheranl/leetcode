@@ -1,5 +1,5 @@
 /**
- * @author unicornking-haoran
+ * @author etheranl-haoran
  * @email imhaoran.wang@foxmail.com
  * @desc see:https://leetcode.com/problems/pascals-triangle/description/
 */

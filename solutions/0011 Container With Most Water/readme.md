@@ -1,1 +1,1 @@
-头尾各设置一个指针，较小的一者向对方移动。移动后比较当前面积与之前的面积，取较大者。重复此步直至指针重合。
+Two pointer are set at the head and the tail, and the smaller one moves toward the other. After moving, compare the current area with the previous area, keep the greater. Repeat this step until the pointer coincides

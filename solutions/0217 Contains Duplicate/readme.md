@@ -1,1 +1,1 @@
-可以直接利用Set内元素不重复的特性，判断生成的Set的size是否与nums.length相同，不同则说明有重复元素。
+We can use the non-repeat feature of Set,and compare `Set.size()` and `num.length`.If two value is not equal, mean there are repeat elements.
