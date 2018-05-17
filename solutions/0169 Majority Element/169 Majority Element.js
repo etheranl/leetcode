@@ -1,4 +1,10 @@
 /**
+ * @author etheranl-haoran
+ * @email imhaoran.wang@foxmail.com
+ * @desc https://leetcode.com/problems/majority-element/description/
+*/
+
+/**
  * @param {number[]} nums
  * @return {number}
  */

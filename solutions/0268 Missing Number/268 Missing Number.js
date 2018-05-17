@@ -1,7 +1,7 @@
 /**
  * @author etheranl-haoran
  * @email imhaoran.wang@foxmail.com
- * @desc see:https://leetcode.com/problems/rotate-array/description/
+ * @desc see:https://leetcode.com/problems/missing-number/description/
 */
 
 /**
@@ -9,12 +9,7 @@
  * @return {number}
  */
 var missingNumber = function (nums) {
-  let maxn = nums.length
-  for (let i = 0; i <= maxn + 1; i++) {
-    if (nums.indexOf(i) === -1) {
-      return i
-    }
-  }
-};
+  return nums.length * (nums.length + 1) / 2 - nums.reduce((realTotal,sum)=> realTotal += sum)
+}
 
-console.log(missingNumber([0, 1]));
+console.log(missingNumber([0, 2]));

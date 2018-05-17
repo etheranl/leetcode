@@ -1,4 +1,10 @@
 /**
+ * @author etheranl-haoran
+ * @email imhaoran.wang@foxmail.com
+ * @desc see:https://leetcode.com/problems/valid-anagram/description/
+*/
+
+/**
  * @param {string} s
  * @param {string} t
  * @return {boolean}

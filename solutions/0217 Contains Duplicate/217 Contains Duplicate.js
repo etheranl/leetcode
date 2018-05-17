@@ -1,4 +1,10 @@
 /**
+ * @author etheranl-haoran
+ * @email imhaoran.wang@foxmail.com
+ * @desc see:https://leetcode.com/problems/contains-duplicate/description/
+*/
+
+/**
  * @param {number[]} nums
  * @return {boolean}
  */

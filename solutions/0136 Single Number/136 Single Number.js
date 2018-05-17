@@ -1,4 +1,10 @@
 /**
+ * @author etheranl-haoran
+ * @email imhaoran.wang@foxmail.com
+ * @desc https://leetcode.com/problems/single-number/
+*/
+
+/**
  * @param {number[]} nums
  * @return {number}
  */
@@ -12,3 +18,4 @@ var singleNumber = function (nums) {
 
 
 console.log(singleNumber([2, 1, 2, 1, 3])); 
+
