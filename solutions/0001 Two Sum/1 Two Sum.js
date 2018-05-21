@@ -12,12 +12,13 @@
 var twoSum = function (nums, target) {
   let map = {};
   let result = []
-  nums.forEach((num, i) => {
+  nums.some((num, i) => {
     if (map[num] !== undefined) {
       result = [map[num], i]
-    } else {
-      map[target - num] = i;
-    }
+      return true
+    } 
+    map[target - num] = i;
+    return false
   })
   return result;
 };
