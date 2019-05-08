@@ -1,6 +1,6 @@
 # Leetcode Solutions with JavaScript 
 
-**23** solved
+**24** solved
 
 ### Almost every solution beats more than 98% of the others in runtime.
 
@@ -15,6 +15,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](https://github.com/etheranl/leetcode/tree/master/solutions/0026%20Remove%20Duplicates%20from%20Sorted%20Array) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://github.com/etheranl/leetcode/tree/master/solutions/0053%20Maximum%20Subarray) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/etheranl/leetcode/tree/master/solutions/0066%20Plus%20One) |  Easy |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](https://github.com/etheranl/leetcode/tree/master/solutions/0075%20Sort%20Colors) |  Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/etheranl/leetcode/tree/master/solutions/0088%20Merge%20Sorted%20Array) |  Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](https://github.com/etheranl/leetcode/tree/master/solutions/0118%20Pascal's%20Triangle) |  Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Solution](https://github.com/etheranl/leetcode/tree/master/solutions/0121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) |  Easy |
